@@ -11,3 +11,4 @@
 * [Login](admin/login.md)
 * [Report](admin/report.md)
 * [Search](admin/search.md)
+* [Profile](admin/profile.md)
